@@ -50,7 +50,7 @@ function Nav() {
                                         </a>
                                     </Link>
                                     <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <Link to='/'>
+                                        <Link to='/project'>
                                             <a className="dropdown-item">project</a>
                                         </Link>
                                         <Link to='/'>
@@ -67,11 +67,11 @@ function Nav() {
                                 </li>
 
                                 <li className="nav-item">
-                                    Contact
+                                <Link to='/contact'> Contact </Link>
                                 </li>
 
-                                <li className="d-none d-lg-block btn_1">
-                                    Get a Quote
+                                <li className="d-none d-lg-block">
+                                   <a class="btn_1" href="#">Get a Quote</a>  
                                 </li>
 
                             </ul>

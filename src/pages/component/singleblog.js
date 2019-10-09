@@ -4,7 +4,6 @@ import blog2 from '../../img/blog/single_blog_2.png';
 import blog3 from '../../img/blog/single_blog_3.png';
 import blog4 from '../../img/blog/single_blog_4.png';
 import blog5 from '../../img/blog/single_blog_5.png';
-
 import post1 from '../../img/post/post_1.png';
 import post2 from '../../img/post/post_2.png';
 import post3 from '../../img/post/post_3.png';
@@ -15,7 +14,9 @@ import post7 from '../../img/post/post_7.png';
 import post8 from '../../img/post/post_8.png';
 import post9 from '../../img/post/post_9.png';
 import post10 from '../../img/post/post_10.png';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faAngleRight } from '@fortawesome/free-solid-svg-icons';
+import { faAngleLeft } from '@fortawesome/free-solid-svg-icons';
 
 
 
@@ -141,7 +142,7 @@ function SingleBlogs () {
                             <ul className="pagination">
                                 <li className="page-item">
                                     <a href="#" className="page-link" aria-label="Previous">
-                                        <i className="ti-angle-left"></i>
+                                        <FontAwesomeIcon icon={faAngleLeft} />
                                     </a>
                                 </li>
                                 <li className="page-item">
@@ -152,7 +153,7 @@ function SingleBlogs () {
                                 </li>
                                 <li className="page-item">
                                     <a href="#" className="page-link" aria-label="Next">
-                                        <i className="ti-angle-right"></i>
+                                        <FontAwesomeIcon icon={faAngleRight} />
                                     </a>
                                 </li>
                             </ul>
