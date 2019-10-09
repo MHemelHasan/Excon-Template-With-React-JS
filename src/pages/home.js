@@ -6,7 +6,7 @@ import Ourmembers from './component/members';
 import Ourservice from './component/services';
 import Experiance from './component/experiances';
 import Feedback from './component/feedback';
-
+import Reacent from './component/reacentnews';
 
 
 
@@ -20,6 +20,7 @@ function Homepage () {
             <OurProject />
             <Ourmembers />
             <Feedback />
+            <Reacent />
         </div>
     );
 }
