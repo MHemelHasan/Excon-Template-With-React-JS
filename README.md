@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Demo](https://upbeat-feynman-1dd1c9.netlify.com)
+[Demo](https://upbeat-feynman-1dd1c9.netlify.com) You can see through this link.
 
 ### Using Plugins 
 
