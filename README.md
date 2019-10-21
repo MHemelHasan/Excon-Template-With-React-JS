@@ -5,11 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Using Plugins 
 
-bootstrap v4.3.1
-owl.carousel
-jquery.counterup
-slick
-waypoints
+Bootstrap v4.3.1 <br />
+Font-awesome <br />
+Owl.carousel <br />
+Jquery.counterup <br />
+Slick <br />
+Waypoints <br />
 
 
 
