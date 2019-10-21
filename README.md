@@ -1,6 +1,19 @@
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Demo](https://upbeat-feynman-1dd1c9.netlify.com)
+
+### Using Plugins 
+
+bootstrap v4.3.1
+owl.carousel
+jquery.counterup
+slick
+waypoints
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
